@@ -1,0 +1,11 @@
+# Secrets / environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies / build output
+node_modules/
+dist/
+
+# Runtime artifacts (checkpoint logs, scratchpad, per-run goal.md/context.md)
+runs/
