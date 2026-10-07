@@ -16,7 +16,7 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.128.0",
+    "@anthropic-ai/sdk": "^0.129.0",
     "commander": "^12.1.0",
     "dotenv": "^16.4.7",
     "zod": "^3.24.1"
